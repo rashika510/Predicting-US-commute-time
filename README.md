@@ -11,3 +11,6 @@ Technologies: Apache Spark, SparkSQL, SparkML, Python
 
 Concepts: Data cleaning, Feature selection, Linear Regression, Gradient Boosting, Elastic Net Regression, Random Forest, Predictive modeling, hyper parameter optimization
 
+# Results
+The top features to predict the commute time were the trip miles, start time, travel dat, purpose, state divisons, urban/rural area, age, etc.
+The algorithm which best predicted the commute time was Gradient Boosting with the least RMSE of 5.737. In this project, we analyzed that despite traffic and geolocation there are different attributes where we could predict commute time.
