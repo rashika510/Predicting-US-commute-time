@@ -7,5 +7,6 @@ The data set is from the National Household Travel Survey (NHTS) https://nhts.or
 
 # Technologies and Concepts
 Technologies: Apache Spark, SparkSQL, SparkML, Python
+
 Concepts: Data cleaning, Feature selection, Linear Regression, Gradient Boosting, Elastic Net Regression, Random Forest, Predictive modeling, hyper parameter optimization
 
